@@ -71,7 +71,7 @@ This project helped me:
 
 ### 📷 Dashboard Preview
 
-![Adidas Sales Dashboard]()
+![Adidas Sales Dashboard](https://github.com/Mkgupta108/Adidas_US_Sales/blob/main/ADIDAS_SALES_ANALYSIS.png?raw=true)
 
 ---
 
